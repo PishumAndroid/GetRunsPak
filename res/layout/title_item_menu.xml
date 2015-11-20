@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="120dip"
+    android:layout_height="300dip"
+    android:background="@color/lightgray"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/main_title_refresh"
+        android:layout_width="@dimen/tv_title_menu_bw"
+        android:layout_height="40dip"
+        android:background="@drawable/title_menu_item_bg"
+        android:gravity="center"
+        android:text="刷新"
+        android:textColor="@color/black" />
+
+    <View
+        android:layout_width="@dimen/tv_title_menu_bw"
+        android:layout_height="1px"
+        android:background="@color/white"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/main_title_addshortcut"
+        android:layout_width="@dimen/tv_title_menu_bw"
+        android:layout_height="40dip"
+        android:background="@drawable/title_menu_item_bg"
+        android:gravity="center"
+        android:text="创建快捷工具"
+        android:textColor="@color/black" />
+
+    <View
+        android:layout_width="@dimen/tv_title_menu_bw"
+        android:layout_height="1px"
+        android:background="@color/white"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/main_title_show_service"
+        android:layout_width="@dimen/tv_title_menu_bw"
+        android:layout_height="40dip"
+        android:background="@drawable/title_menu_item_bg"
+        android:gravity="center"
+        android:text="显示运行服务"
+        android:textColor="@color/black" />
+
+    <View
+        android:layout_width="@dimen/tv_title_menu_bw"
+        android:layout_height="1px"
+        android:background="@color/white"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/main_title_setup"
+        android:layout_width="@dimen/tv_title_menu_bw"
+        android:layout_height="40dip"
+        android:background="@drawable/title_menu_item_bg"
+        android:gravity="center"
+        android:text="设置"
+        android:textColor="@color/black" />
+
+</LinearLayout>

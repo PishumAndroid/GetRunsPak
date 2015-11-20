@@ -1,0 +1,33 @@
+<resources>
+
+    <dimen name="activity_vertical_margin">15dp</dimen>
+    <!-- power -->
+    <dimen name="tv_power_margin_left">20dip</dimen>
+    <!-- stb_menu 电视机中间菜单 -->
+    <dimen name="tv_menu_ok_radius">66.75dip</dimen>
+    <dimen name="tv_menu_short">60dip</dimen>
+    <dimen name="tv_menu_long">168dip</dimen>
+    <!-- tv_ch and tv_vol 电视机音量频道 -->
+    <dimen name="tv_menu_ch_vol_height">168dip</dimen>
+    <dimen name="tv_ch_margin_top">0dip</dimen>
+    <dimen name="tv_vol_margin_top">20dip</dimen>
+    <dimen name="tv_ch_margin_left">20dip</dimen>
+    <dimen name="tv_vol_margin_right">20dip</dimen>
+    <!-- 电视机下面四个按键 -->
+    <dimen name="tv_bottom_btn_mar">16dip</dimen>
+    <!-- tv 电视机字体 -->
+    <dimen name="tv_number_btn_size">20sp</dimen>
+    <dimen name="tv_custom_btn_size">16sp</dimen>
+    <!-- tv右上角菜单 -->
+    <dimen name="tv_title_menu_bw">150dip</dimen>
+    <!-- AirCondition -->
+    <dimen name="air_activity_margin">12dp</dimen>
+    <dimen name="air_display_height">112.5dip</dimen>
+    <dimen name="air_win_display">22.5dip</dimen>
+    <dimen name="air_temp_display">67.5dip</dimen>
+    <dimen name="air_mode_display">33.75dip</dimen>
+    <dimen name="air_btn_constain_h">180dip</dimen>
+    <dimen name="air_btn_h_w">45dip</dimen>
+    <dimen name="air_btn_lh">135dip</dimen>
+
+</resources>

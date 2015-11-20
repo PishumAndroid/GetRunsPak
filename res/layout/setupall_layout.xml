@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/snow"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/setup_title"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/air_title_h"
+        android:background="@color/whilte" >
+
+        <ImageButton
+            android:id="@+id/setup_title_back"
+            android:layout_width="@dimen/air_title_btn_w"
+            android:layout_height="fill_parent"
+            android:layout_margin="@dimen/air_title_btn_margin"
+            android:background="@drawable/set_menu_white" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px"
+        android:layout_marginTop="35.0dip"
+        android:background="@color/gray" />
+
+    <Button
+        android:id="@+id/btn_push_notice"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip"
+        android:background="@drawable/list_item_white_select"
+        android:drawableLeft="@drawable/shock"
+        android:drawablePadding="5.0dip"
+        android:drawableRight="@drawable/switch_on"
+        android:gravity="left|center"
+        android:paddingLeft="15.0dip"
+        android:paddingRight="15.0dip"
+        android:text="显示通知加速"
+        android:textSize="16.0sp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px"
+        android:layout_marginLeft="55.0dip"
+        android:background="@color/gray" />
+
+    <Button
+        android:id="@+id/btn_shortcut_show"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip"
+        android:background="@drawable/list_item_white_select"
+        android:drawableLeft="@drawable/shock"
+        android:drawablePadding="5.0dip"
+        android:drawableRight="@drawable/switch_on"
+        android:gravity="left|center"
+        android:paddingLeft="15.0dip"
+        android:paddingRight="15.0dip"
+        android:text="显示桌面加速"
+        android:textSize="16.0sp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px"
+        android:layout_marginLeft="55.0dip"
+        android:background="@color/gray" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px"
+        android:background="@color/gray" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px"
+        android:layout_marginTop="35.0dip"
+        android:background="@color/gray" />
+
+    <Button
+        android:id="@+id/btn_system_info"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip"
+        android:background="@drawable/list_item_white_select"
+        android:drawableLeft="@drawable/shock"
+        android:drawablePadding="5.0dip"
+        android:gravity="left|center"
+        android:paddingLeft="15.0dip"
+        android:text="系统信息"
+        android:textSize="16.0sp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px"
+        android:layout_marginLeft="35.0dip"
+        android:background="@color/gray" />
+
+    <Button
+        android:id="@+id/btn_about_tk"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip"
+        android:background="@drawable/list_item_white_select"
+        android:drawableLeft="@drawable/shock"
+        android:drawablePadding="5.0dip"
+        android:gravity="left|center"
+        android:paddingLeft="15.0dip"
+        android:text="关于TaskKiller"
+        android:textSize="16.0sp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px"
+        android:layout_marginLeft="35.0dip"
+        android:background="@color/gray" />
+
+    <Button
+        android:id="@+id/btn_share_tk"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip"
+        android:background="@drawable/list_item_white_select"
+        android:drawableLeft="@drawable/shock"
+        android:drawablePadding="5.0dip"
+        android:gravity="left|center"
+        android:paddingLeft="15.0dip"
+        android:paddingRight="15.0dip"
+        android:text="推送至好友"
+        android:textSize="16.0sp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px"
+        android:background="@color/gray" />
+
+    <Button
+        android:id="@+id/btn_exit_tk"
+        android:layout_width="fill_parent"
+        android:layout_height="40dip"
+        android:layout_gravity="center"
+        android:layout_marginLeft="15dip"
+        android:layout_marginRight="15dip"
+        android:layout_marginTop="35.0dip"
+        android:background="@drawable/exit_btn_bg"
+        android:text="退出应用"
+        android:textColor="@color/white"
+        android:textSize="18.0sp" />
+
+</LinearLayout>

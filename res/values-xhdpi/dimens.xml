@@ -1,0 +1,62 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">20dp</dimen>
+    <dimen name="activity_vertical_margin">15dp</dimen>
+    <dimen name="shadow_width">20dp</dimen>
+    <dimen name="slidingmenu_offset">100dp</dimen>
+    <dimen name="normal_width_height">60dip</dimen>
+    <dimen name="normal_height">180dip</dimen>
+    <dimen name="title_dimen">40dip</dimen>
+    <dimen name="left_menu_long">1.0px</dimen>
+    <dimen name="title_btn_margin">5dip</dimen>
+    <!-- left menu list -->
+    <dimen name="left_menu_margin_left">10dip</dimen>
+    <dimen name="left_menu_margin_right">10dip</dimen>
+    <!-- power -->
+    <dimen name="tv_power_margin_left">20dip</dimen>
+    <!-- stb_menu 电视机中间菜单 -->
+    <dimen name="tv_menu_ok_radius">89dip</dimen>
+    <dimen name="tv_menu_short">80dip</dimen>
+    <dimen name="tv_menu_long">224dip</dimen>
+    <dimen name="tv_menu_margin">17dip</dimen>
+    <!-- tv_ch and tv_vol 电视机音量频道 -->
+    <dimen name="tv_menu_ch_vol_height">224dip</dimen>
+    <dimen name="tv_ch_margin_top">0dip</dimen>
+    <dimen name="tv_vol_margin_top">20dip</dimen>
+    <dimen name="tv_ch_margin_left">20dip</dimen>
+    <dimen name="tv_vol_margin_right">20dip</dimen>
+    <!-- 电视机下面四个按键 -->
+    <dimen name="tv_bottom_btn_mar">16dip</dimen>
+    <!-- tv 电视机字体 -->
+    <dimen name="tv_number_btn_size">20sp</dimen>
+    <dimen name="tv_custom_btn_size">16sp</dimen>
+    <!-- tv右上角菜单 -->
+    <dimen name="tv_title_menu_bw">150dip</dimen>
+    <!-- AirCondition -->
+    <dimen name="air_activity_margin">12dp</dimen>
+    <dimen name="air_title_h">40dip</dimen>
+    <dimen name="air_title_btn_w">40dip</dimen>
+    <dimen name="air_title_btn_margin">6dip</dimen>
+    <dimen name="air_temp_display_marTop">10dip</dimen>
+    <dimen name="air_display_height">150dip</dimen>
+    <dimen name="air_display_margin">30dip</dimen>
+    <dimen name="air_win_display">30dip</dimen>
+    <dimen name="air_temp_display">90dip</dimen>
+    <dimen name="air_mode_display">45dip</dimen>
+    <dimen name="air_btn_margin_display">30dip</dimen>
+    <dimen name="air_btn_constain_h">240dip</dimen>
+    <dimen name="air_btn_h_w">60dip</dimen>
+    <dimen name="air_btn_lh">180dip</dimen>
+    <dimen name="air_btn_mar_left_right">16dip</dimen>
+    <!-- 关于主页的gridview显示 -->
+    <dimen name="main_gridview_width">80dp</dimen>
+    <dimen name="main_gridview_spacing">5dp</dimen>
+    <dimen name="main_gridview_img_w_h">75dp</dimen>
+    <!-- check_air空气质量检测 -->
+    <dimen name="check_air_chose_height">118dip</dimen>
+    <dimen name="check_air_item_text">95dip</dimen>
+    <dimen name="check_air_tip_height">180dip</dimen>
+    <!-- 底下小贴士 -->
+
+</resources>
